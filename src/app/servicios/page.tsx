@@ -1,22 +1,18 @@
-import About from '@/components/about'
 import ButtonR from '@/components/buttonr'
 import Contact from '@/components/contact'
 import Footer from '@/components/footer'
 import Navbar from '@/components/navbar'
-import Services from '@/components/services'
+
 import Map from '@/components/map'
-import Banner from '@/components/banner'
+import Desc from '@/components/desc'
 import Stats from '@/components/stats'
-export default function Home() {
+export default function Servicios() {
   return (
     <>
       <Navbar/>
       
-      <Banner/>
-
-      <About/>
-      <Services/>
-      <Stats/>
+     <Desc/>
+     <Stats/>
       <Map/>
       <Contact/>
       <Footer/>

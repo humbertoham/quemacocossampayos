@@ -86,7 +86,14 @@
 
 
 }
+.stat{
+  background: fixed center url(../../public/images/stat.jpg);
+}
+
 .gold{
+  color: #FFD700;
+}
+.tet:hover{
   color: #FFD700;
 }
 .nav{
