@@ -126,7 +126,7 @@
               >
                 Más información
               </a>
-</div>s
+</div>
       </>
     );
   }
