@@ -31,13 +31,18 @@ export default function Contact() {
                         </div>
                         <div className="ml-6 grow">
                             <p className="mb-2 font-bold">
-                                Número
-                            </p>
+                                Números                            </p>
                             
                             <p className="text-neutral-500">
                           <a href='https://api.whatsapp.com/send/?phone=%2B525612670864' className=' hover:underline' target='_blank'> +52 56 1267 0864</a> 
                             </p>
-                        </div>
+
+                            <p className="text-neutral-500">
+                          <a href='https://api.whatsapp.com/send/?phone=%2B525566851718' className=' hover:underline' target='_blank'> +52 55 6685 1718</a> 
+                            </p>
+                            <p className="text-neutral-500">
+                          <a href='https://api.whatsapp.com/send/?phone=%2B525576297752' className=' hover:underline' target='_blank'> +52 55 7629 7752</a> 
+                            </p>                        </div>
                     </div>
                 </div>
                 <div className="mb-12 w-full shrink-0 grow-0 basis-auto md:w-6/12 md:px-3 lg:px-6">
